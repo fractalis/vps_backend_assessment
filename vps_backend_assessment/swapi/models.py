@@ -1,12 +1,8 @@
-#pylint: disable=no-member
-
 from dataclasses import dataclass
 from datetime import datetime
 from typing import List
 
 from .utilities import fetch
-
-import locale
 
 import dateutil.parser
 import ujson as json
