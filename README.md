@@ -73,3 +73,7 @@ Ship Name: Belbullab-22 starfighter
 		Grievous
 Ship Name: V-wing
 ```
+
+## Instructions to Run tests
+
+To run the tests, simply execute `nosetests` at the command prompt after installing the requirements with `pip install -r requirements.txt`
